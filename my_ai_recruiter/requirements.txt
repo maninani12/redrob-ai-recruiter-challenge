@@ -1,1 +1,5 @@
-
+pandas
+scikit-learn
+sentence-transformers
+streamlit
+python-docx
